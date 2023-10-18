@@ -19,7 +19,7 @@ const renderCarrito = () => {
 
                         <img src="./ASSETS/PICS/carritoVolcado.png" alt="carritovolcado" >
 
-                        <a href="./indexJuegos.html">Volver al início</a>
+                        <a href="./index.html">Volver al início</a>
                         </div>
                         
                         `
